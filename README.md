@@ -13,7 +13,7 @@ Understanding the market trends and customer sentiments is a key differentiator 
 
 **Approach:** We have gotten real-time data from Twitter and have performed sentimental analysis on the tweets to understand the perception of various products in the market. We gauge what is positive about a porduct and what is negative about a product. Using this we could understand how unbiased audience are reacting to any product in the product in a cost efficient way.
 
-
-*This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota. 
-
 Video (Presentation + Demo): https://www.youtube.com/watch?v=fYU43EYDf2E
+
+--
+This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota. 
